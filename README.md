@@ -1,6 +1,6 @@
 Hey, there! 👋
 ----
-I'm Anton Reyes. 
+I'm Anton Reyes.
 
 My pronouns are *he/him*.
 
