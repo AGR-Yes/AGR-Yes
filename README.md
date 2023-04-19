@@ -5,7 +5,7 @@
 
 My pronouns are *he/him*.
 
-I come all the way from Metro Manila, Philippines! I am currently an undergraduate student at De La Salle University - Manila. I'm taking up my `Bachelors in Marketing Management` and with a minor in `Data Science.` Other than that, I also involve myself in the creatives industry as a `multimedia artist` and a `dancer.`
+I come all the way from Metro Manila, Philippines! I am currently an undergraduate student at De La Salle University - Manila. I'm currently an undergraduate student with a `Bachelors in Marketing Management` and with a minor in `Data Science.` Other than that, I also involve myself in the creatives industry as a `multimedia artist` and a `dancer.`
 
 When it comes to data science, I enjoy preprocessing and cleaning datasets; And since I am in the creatives industry, I also enjoy visualizing data.
 
