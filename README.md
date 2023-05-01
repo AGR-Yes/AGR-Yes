@@ -17,7 +17,7 @@ You may reach me at:
  - [Email](AntonReyes.work@gmail.com)
  - [LinkedIn](www.linkedin.com/in/anton-r-501b12136/)
  - [Portfolio](https://agrstudios.wixsite.com/portfolio/)
- - Discord *(Coming Soon!)*
+ - [Discord](https://discord.gg/v4PzDC2R6T)
 
 <!---
 AntonReyes/AntonReyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
