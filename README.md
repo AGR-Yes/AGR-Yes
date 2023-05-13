@@ -1,6 +1,6 @@
 # **Hey, there! 👋**
 
-## I'm Anton Reyes.
+### I'm Anton Reyes.
 
 
 My pronouns are *he/him*.
@@ -10,9 +10,20 @@ I come all the way from Metro Manila, Philippines! I am currently an undergradua
 When it comes to data science, I enjoy preprocessing and cleaning datasets; And since I am in the creatives industry, I also enjoy visualizing data.
 
 ----
+### Favorite Projects (So Far)
 
-How to reach me? 📫 
-----
+| Project | Description | Status | Note |
+|-------------|-------------|-------------|-------------|
+| [`RuPaul's Drag Race Finalists`](https://github.com/AGR-Yes/RuPauls-Drag-Race-Finalists) |  Dashboard on all the Finalists in the Drag Race franchise (Up until U.S. Season 15) | Completed | Personal |
+| [`Drag Race Philippines Tweets Sentiment Analysis`](https://github.com/AGR-Yes/Drag-Race-Ph-Tweets-Sentiment-Analysis) |  Sentiment Analysis on audience response to the two finalists of Drag Race Philippines | Completed | Group project |
+| `Porygon Bot` |  A simple Discord bot that greet new users in my [Discord server](https://discord.gg/v4PzDC2R6T) | Completed | To be updated |
+| `LRT Key Performance Indicator` |  A visualization and prediction for the remaining months of 2023 | In progress | Personal |
+
+*Note: If a link is not available, it's probably private for certain reasons*
+
+---
+### How to reach me? 📫 
+
 You may reach me at:
  - [Email](AntonReyes.work@gmail.com)
  - [LinkedIn](www.linkedin.com/in/anton-r-501b12136/)
