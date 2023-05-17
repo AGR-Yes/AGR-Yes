@@ -16,8 +16,8 @@ When it comes to data science, I enjoy preprocessing and cleaning datasets; And 
 |-------------|-------------|-------------|-------------|
 | [`RuPaul's Drag Race Finalists`](https://github.com/AGR-Yes/RuPauls-Drag-Race-Finalists) |  Dashboard on all the Finalists in the Drag Race franchise (Up until U.S. Season 15) | Completed | Personal |
 | [`Drag Race Philippines Tweets Sentiment Analysis`](https://github.com/AGR-Yes/Drag-Race-Ph-Tweets-Sentiment-Analysis) |  Sentiment Analysis on audience response to the two finalists of Drag Race Philippines | Completed | Group project |
-| `Porygon Bot` |  A simple Discord bot that greet new users in my [Discord server](https://discord.gg/v4PzDC2R6T) | Completed | To be updated |
-| `LRT Key Performance Indicator` |  A visualization and prediction for the remaining months of 2023 | In progress | Personal |
+| `Porygon Bot` |  A simple Discord bot that greet new users in my Discord server | Completed | To be updated |
+| [`LRT Key Performance Indicator`](https://github.com/AGR-Yes/LRT-KPI) |  A visualization and prediction for the remaining months of 2023 | Completed | Personal |
 
 *Note: If a link is not available, it's probably private for certain reasons*
 
