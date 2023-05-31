@@ -16,17 +16,41 @@ When it comes to data science, I enjoy preprocessing and cleaning datasets; And 
 |-------------|-------------|-------------|-------------|
 | [`RuPaul's Drag Race Finalists`](https://github.com/AGR-Yes/RuPauls-Drag-Race-Finalists) |  Dashboard on all the Finalists in the Drag Race franchise (Up until U.S. Season 15) | Completed | Personal |
 | [`Drag Race Philippines Tweets Sentiment Analysis`](https://github.com/AGR-Yes/Drag-Race-Ph-Tweets-Sentiment-Analysis) |  Sentiment Analysis on audience response to the two finalists of Drag Race Philippines | Completed | Group project |
-| `Porygon Bot` |  A simple Discord bot that greet new users in my Discord server | Completed | To be updated |
+| `Porygon Bot` |  A simple Discord bot that greet new users in my Discord server | Completed | To be updated/evolved! |
 | [`LRT Key Performance Indicator`](https://github.com/AGR-Yes/LRT-KPI) |  A visualization and prediction for the remaining months of 2023 | Completed | Personal |
 
 *Note: If a link is not available, it's probably private for certain reasons*
 
 ---
+### Applications 📚 
+
+**You may reach me at:**
+ 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=bots" />
+    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=regex" />
+    <img src="https://skillicons.dev/icons?i=replit" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+<br>
+
+---
 ### How to reach me? 📫 
 
-You may reach me at:
- - [Email](AntonReyes.work@gmail.com)
- - [LinkedIn](www.linkedin.com/in/anton-r-501b12136/)
- - [Portfolio](https://agrstudios.wixsite.com/portfolio/)
- - [Discord](https://discord.gg/v4PzDC2R6T)
-
+**You may reach me at:**
+ 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
