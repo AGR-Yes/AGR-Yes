@@ -23,8 +23,6 @@ When it comes to data science, I enjoy preprocessing and cleaning datasets; And 
 
 ---
 ### Applications 📚 
-
-**You may reach me at:**
  
 <p align="center">
     <img src="https://skillicons.dev/icons?i=bots" />
@@ -43,14 +41,15 @@ When it comes to data science, I enjoy preprocessing and cleaning datasets; And 
 
 **You may reach me at:**
  
+
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.instagram.com/ant0nreyes/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/antongreyes/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://discord.gg/v4PzDC2R6T">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
