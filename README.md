@@ -18,6 +18,7 @@ When it comes to data science, I enjoy preprocessing and cleaning datasets; And 
 | [`Drag Race Philippines Tweets Sentiment Analysis`](https://github.com/AGR-Yes/Drag-Race-Ph-Tweets-Sentiment-Analysis) |  Sentiment Analysis on audience response to the two finalists of Drag Race Philippines | Completed | Group project |
 | `Porygon Bot` |  A simple Discord bot that greet new users in my Discord server | Completed | To be updated/evolved! |
 | [`LRT Key Performance Indicator`](https://github.com/AGR-Yes/LRT-KPI) |  A visualization and prediction for the remaining months of 2023 | Completed | Personal |
+| [`Philippine Scam SMS`](https://github.com/AGR-Yes/PhilippineScamSMS) |  A research-based data dashboard to show the spam texts in the Philippines | *In Progress* | Personal |
 
 *Note: If a link is not available, it's probably private for certain reasons*
 
